@@ -10,6 +10,7 @@ I started my programming journey in **February 2024** from scratch, and I'm exci
 ### 🌱 Growing as a developer:
 - Every day is a new opportunity to learn and improve — I’m excited about where my knowledge will take me in the future!
 - I'm driven by challenges that push me to think critically and grow both as a programmer and as a problem-solver.
+- I’m also intrigued about the possibilities that technology offers for self-expression and creativity.
 
 ### 🚀 Let’s connect:
 - **LinkedIn**: [Seela Salorinta](https://www.linkedin.com/in/seela-salorinta-8a029b2ba/)
