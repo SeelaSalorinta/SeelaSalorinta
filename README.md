@@ -1,6 +1,6 @@
 # Hi, I'm Seela 🧘🏽‍♀️
 
-I'm currently studying at **Hive Helsinki** and working hard to grow as a developer, mainly coding in **C**.
+I'm currently studying at **Hive Helsinki** and working hard to grow as a developer, mainly coding in **C** and **C++**.
 I started my programming journey in **February 2024** from scratch, and I'm excited to see where this path takes me.
 
 ### 📂 What I’m working on:
